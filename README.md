@@ -25,7 +25,6 @@ I'm a passionate developer from the Philippine who specializes in frontend and b
 
 ## Projects
 Here are some of the projects I've worked on:
-
 - [Hotel Management System]([link-to-project1](https://github.com/KenPrz/hotel-management-system)): A fully fledged hotel management system build with laravel.
 - [Inventory Monitoring System]([link-to-project2](https://github.com/KenPrz/Inventory)): An Inventory monitoring system entirely built using nothing but C.
 - [Mushroom Classification]([link-to-project3](https://github.com/KenPrz/Mushroom-Classifier-using-python)): A machine learning app that classifies if a mushroom is poisonous or edible.
