@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate developer from the Philippine who specializes in frontend and backend web development. I love building interactive and dynamic web applications, and I'm always eager to learn new technologies and improve my skills.
+I'm a passionate developer from the Philippines who specializes in frontend and backend web development. I love building interactive and dynamic web applications, and I'm always eager to learn new technologies and improve my skills.
 
 
 ## 🌐 Socials:
