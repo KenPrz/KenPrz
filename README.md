@@ -29,7 +29,6 @@ I would like to share the tools that I frequently use, although I want to emphas
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
-Note: The logos are sorted based on the provided technologies and their categories.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KenPrz&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KenPrz&theme=dark&hide_border=true)<br/>
